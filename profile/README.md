@@ -8,9 +8,9 @@
 
 Rede de **alimentos** de Foz do Iguaçu — PR · Varejo, Atacado e Food Service
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://linktr.ee/dilettare)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://linktr.ee/dilettare)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://linktr.ee/dilettare)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilettaresupermercado)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@grupodilettare)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dilettaresupermercado/?locale=pt_BR)
 [![Linktree](https://img.shields.io/badge/Todos%20os%20links-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dilettare)
 
 </div>
