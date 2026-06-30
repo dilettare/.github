@@ -1,54 +1,63 @@
+<div align="center">
+
+<img src="https://ugc.production.linktr.ee/4f7f293d-919c-4c83-8fde-7416e3f8ea03_foto-perfil-link--1-.png?io=true&size=avatar-v3_0" width="120" alt="Grupo Dilettare" />
+
 # Grupo Dilettare
 
-> Varejo e atacado de alimentos em Foz do Iguaçu – PR
+### _Servindo você com amor_ ❤️
 
-Bem-vindo(a)! Este é o ponto de entrada para conhecer o **Grupo Dilettare**: quem somos, como nos organizamos e onde encontrar as informações que você precisa.
+Rede de **alimentos** de Foz do Iguaçu — PR · Varejo, Atacado e Food Service
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://linktr.ee/dilettare)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://linktr.ee/dilettare)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://linktr.ee/dilettare)
+[![Linktree](https://img.shields.io/badge/Todos%20os%20links-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dilettare)
 
-## Sobre o grupo
-
-O Grupo Dilettare atua no setor de alimentos em Foz do Iguaçu (Paraná), combinando dois canais complementares:
-
-- **Varejo** — atendimento próximo ao consumidor final, com variedade de itens e foco na experiência de compra.
-- **Atacado** — escala, logística e competitividade de preços para o abastecimento de outros negócios.
-
-Essa atuação dupla nos posiciona como referência regional no fornecimento de produtos alimentícios, conciliando **variedade, preço e qualidade de serviço**.
+</div>
 
 ---
 
-## Como nos organizamos
+## 🛒 Quem somos
 
-A operação integra áreas comerciais, gestão de estoque, compras, infraestrutura e tecnologia própria. O grupo investe continuamente na **modernização de processos e sistemas** para garantir eficiência operacional e uma experiência consistente em ambos os canais.
+O **Grupo Dilettare** atua no setor de alimentos em Foz do Iguaçu e região, atendendo do consumidor final ao grande comprador. Nossa operação se divide em frentes complementares, todas com o mesmo compromisso: servir bem, com qualidade e preço justo.
 
-| Área | Responsabilidade |
-|------|------------------|
-| Comercial | Vendas varejo e atacado |
-| Compras | Negociação e abastecimento |
-| Estoque / Logística | Gestão de inventário e distribuição |
-| Infraestrutura | Redes, servidores e ambiente interno |
-| Desenvolvimento | Sistemas internos, integrações e automações |
-
----
-
-## Tecnologia & sistemas
-
-O ecossistema de TI dá suporte a toda a operação — de compras e estoque a precificação e transferências entre lojas. Os sistemas internos integram diferentes ERPs e bases de dados, garantindo que a informação flua de ponta a ponta no negócio.
+| Frente | O que oferece |
+|--------|---------------|
+| 🏪 **Supermercado** | Lojas físicas e [compras online](https://dilettaresupermercado.com.br/dilettare1/) com entrega |
+| 📦 **Atacado** | [Vendas para revenda e grandes volumes](https://linktr.ee/dilettareatacado1) |
+| 🍽️ **Food Service** | [Atendimento a restaurantes e food service](https://wa.me/554599900536) |
+| 🚚 **Delivery** | [Seu mercado sem sair de casa](https://linktr.ee/deliverydilettare) |
+| ⭐ **Clube de Vantagens** | [Benefícios exclusivos para clientes](https://clubedilettare.querovantagens.com/#/home) |
 
 ---
 
-## Por onde começar
+## 📍 Nossas unidades
 
-- 📌 **Novo no grupo?** Consulte os documentos de onboarding e os POPs da sua área.
-- 🗂️ **Procurando um sistema específico?** Veja o mapa de propriedade de sistemas.
-- 🛠️ **Precisa de suporte ou acesso?** Fale com a equipe de infraestrutura/desenvolvimento.
+Estamos presentes em diversos bairros de Foz do Iguaçu e em Marechal Cândido Rondon, com canais de ofertas e atendimento próprios para cada loja:
 
----
-
-## Contato
-
-Para dúvidas, acessos ou mais informações, procure a área responsável ou a equipe de Tecnologia.
+- Vila Portes · Portal · Morumbi · Santa Terezinha (Centro) · Santa Mônica
+- Marechal Cândido Rondon
 
 ---
 
-<sub>Grupo Dilettare — Foz do Iguaçu, PR</sub>
+## 💼 Trabalhe conosco
+
+Quer fazer parte do time Dilettare? **[Cadastre seu currículo aqui »](http://www.dilettare.com.br/workwithus)**
+
+---
+
+## 🔗 Contato e canais
+
+Todos os nossos canais — vendas, ofertas, delivery e redes sociais — estão reunidos no nosso Linktree:
+
+<div align="center">
+
+### 👉 **[linktr.ee/dilettare](https://linktr.ee/dilettare)**
+
+</div>
+
+---
+
+<div align="center">
+<sub>Grupo Dilettare · Foz do Iguaçu — PR · <i>Servindo você com amor</i></sub>
+</div>
