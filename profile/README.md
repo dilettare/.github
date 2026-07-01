@@ -23,9 +23,9 @@ O Grupo Dilettare é referência no setor alimentício em Foz do Iguaçu e regi�
 
 | Frente | O que oferece |
 |--------|---------------|
-| 🏪 **Supermercado** | Lojas físicas e [compras online](https://dilettaresupermercado.com.br/dilettare1/) com entrega |
-| 📦 **Atacado** | [Vendas para revenda e grandes volumes](https://linktr.ee/dilettareatacado1) |
-| 🍽️ **Food Service** | [Atendimento a restaurantes e food service](https://wa.me/554599900536) |
+| 🏪 **Supermercado** | Lojas físicas e [ online](https://dilettaresupermercado.com.br/dilettare1/) com entrega |
+| 📦 **Atacado** | [Atendendo desde revendas a consumidor final,  ](https://linktr.ee/dilettareatacado1) |
+| 🍽️ **Food Service** | [Atendendo a restaurantes, hoteis, lancherias e afins ](https://wa.me/554599900536) |
 | 🚚 **Delivery** | [Seu mercado sem sair de casa](https://linktr.ee/deliverydilettare) |
 | ⭐ **Clube de Vantagens** | [Benefícios exclusivos para clientes](https://clubedilettare.querovantagens.com/#/home) |
 
@@ -33,10 +33,11 @@ O Grupo Dilettare é referência no setor alimentício em Foz do Iguaçu e regi�
 
 ## 📍 Nossas unidades
 
-Estamos presentes em diversos bairros de Foz do Iguaçu e em Marechal Cândido Rondon, com canais de ofertas e atendimento próprios para cada loja:
+Estamos presentes em Foz do Iguaçu, Santa Teresinha de Itaipu e Marechal Cândido Rondon, com canais de ofertas e atendimento próprios para cada loja:
 
-- Vila Portes · Portal · Morumbi · Santa Terezinha (Centro) · Santa Mônica
-- Marechal Cândido Rondon
+- Foz do Iguaçu: Vila Portes, Portal da Foz, Morumbi
+- Santa Terezinha de Itaipu: Centro e Santa Mônica
+- Marechal Cândido Rondon: Centro
 
 ---
 
