@@ -19,7 +19,7 @@ Rede de **alimentos** de Foz do Iguaçu — PR · Varejo, Atacado e Food Service
 
 ## 🛒 Quem somos
 
-O Grupo Dilettare atua no setor de alimentos em Foz do Iguaçu e região, atendendo desde grandes empresas até o consumidor final. Nossa operação é guiada por um compromisso: servir bem, com qualidade e preço justo.
+O Grupo Dilettare é referência no setor alimentício em Foz do Iguaçu e região, atendendo desde grandes empresas ao consumidor final. Nosso propósito é servir com excelência, unindo qualidade, confiança e preços justos para gerar valor em cada experiência.
 
 | Frente | O que oferece |
 |--------|---------------|
